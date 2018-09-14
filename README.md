@@ -1,6 +1,6 @@
 <h1>CSX2018 DjangoClass</h1>
 
-<h2>Introduce myself</h2>
+<h2>Introduce myself</h2><hr>
 
 <p>嗨，大家好。我是圖資二的闕宏哲</p>
 
