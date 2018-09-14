@@ -6,10 +6,10 @@
 
 
 <ul><li>Week 1</li></ul>
-<h4>In class</h4><br>
+<span>In class</span><br>
 <span>i.  Register Heroku, Github</span><br>
 <span>ii. Install Django,Anaconda</span><br>
 <span>iii.Learn Heroku,Githun</span><br>
-<h4>Homework</h4><br><br>
+<h4>Homework</h4><br><br
 <a href="https://swaiihelloworld.herokuapp.com">https://swaiihelloworld.herokuapp.com</a>
 
