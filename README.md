@@ -4,6 +4,6 @@
 
 <p>嗨，大家好。我是圖資二的闕宏哲</p>
 
-<ol><li>Week 1</li></ol>
+<ul><li>Week 1</li></ul>
 
 <h3>In class</h3>
