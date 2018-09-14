@@ -1,4 +1,4 @@
-<h1>CSX2018 DjangoClass</h1>
+<h1>CSX2018 DjangoClass</h1><hr>
 
 <h2>Introduce myself</h2><hr>
 
