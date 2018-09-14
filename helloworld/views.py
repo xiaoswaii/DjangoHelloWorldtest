@@ -6,4 +6,4 @@ from django.contrib.auth.models import User
 
 
 def index(request):
-	return HttpResponse('Fuck you Teacher')
+	return HttpResponse('Hello World!I am Xiaoswaii')
